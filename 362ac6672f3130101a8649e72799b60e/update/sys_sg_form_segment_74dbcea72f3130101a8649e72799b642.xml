@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
+    <sys_sg_form_segment action="INSERT_OR_UPDATE">
+        <embedded_screen display_value="Details">74dbcea72f3130101a8649e72799b63d</embedded_screen>
+        <form display_value="Idea Form Form Screen">fcdbcea72f3130101a8649e72799b63b</form>
+        <header_view_config/>
+        <is_sticky>false</is_sticky>
+        <order>10</order>
+        <sys_class_name>sys_sg_form_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-12 06:31:26</sys_created_on>
+        <sys_id>74dbcea72f3130101a8649e72799b642</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Idea portal" source="x_675327_idea_port">362ac6672f3130101a8649e72799b60e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Idea portal">362ac6672f3130101a8649e72799b60e</sys_scope>
+        <sys_update_name>sys_sg_form_segment_74dbcea72f3130101a8649e72799b642</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-12 06:31:26</sys_updated_on>
+    </sys_sg_form_segment>
+</record_update>
