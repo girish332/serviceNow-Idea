@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="x_675327_idea_port_idea_form" label="Demand" max_length="40" name="x_675327_idea_port_demand" type="collection">
+        <element choice="1" label="Demand category" max_length="40" name="demand_category" type="string">
+            <choice/>
+        </element>
+        <element label="Demand manager" max_length="400" name="demand_manager" type="string"/>
+    </element>
+</database>

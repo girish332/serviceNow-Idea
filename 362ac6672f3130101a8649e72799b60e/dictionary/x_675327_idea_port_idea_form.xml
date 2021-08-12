@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Idea Form" max_length="40" name="x_675327_idea_port_idea_form" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Identified Problem" max_length="400" name="identified_problem" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="asset" label="Impacted Buisness unit" max_length="40" name="impacted_buisness_unit" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Asset" value="asset"/>
+                <element inactive_on_update="false" label="Liability" value="liability"/>
+                <element inactive_on_update="false" label="Tech" value="tech"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Solution " max_length="4000" name="solution" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" label="Title" max_length="40" name="title" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Submit idea">f0485e232f7130101a8649e72799b690</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Submit</label>
+        <location>top</location>
+        <name>Submit</name>
+        <order>10</order>
+        <parent>fcdbcea72f3130101a8649e72799b63b</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-12 07:35:25</sys_created_on>
+        <sys_id>027a5eef2f3130101a8649e72799b6bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Submit</sys_name>
+        <sys_package display_value="Idea portal" source="x_675327_idea_port">362ac6672f3130101a8649e72799b60e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Idea portal">362ac6672f3130101a8649e72799b60e</sys_scope>
+        <sys_update_name>sys_sg_button_instance_027a5eef2f3130101a8649e72799b6bc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-12 07:35:25</sys_updated_on>
+        <table>x_675327_idea_port_idea_form</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=027a5eef2f3130101a8649e72799b6bc"/>
+</record_update>

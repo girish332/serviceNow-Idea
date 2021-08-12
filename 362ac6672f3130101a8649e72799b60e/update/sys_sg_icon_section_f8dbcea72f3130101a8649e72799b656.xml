@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon_section">
+    <sys_sg_icon_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applets>f4dbcea72f3130101a8649e72799b63a</applets>
+        <data_item/>
+        <display_feed_count>false</display_feed_count>
+        <hide_header>false</hide_header>
+        <hide_section_if_empty>false</hide_section_if_empty>
+        <orientation>horizontal</orientation>
+        <required_roles>user,admin</required_roles>
+        <sys_class_name>sys_sg_icon_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-12 06:31:27</sys_created_on>
+        <sys_id>f8dbcea72f3130101a8649e72799b656</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Idea Form</sys_name>
+        <sys_package display_value="Idea portal" source="x_675327_idea_port">362ac6672f3130101a8649e72799b60e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Idea portal">362ac6672f3130101a8649e72799b60e</sys_scope>
+        <sys_update_name>sys_sg_icon_section_f8dbcea72f3130101a8649e72799b656</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-12 06:31:27</sys_updated_on>
+        <table/>
+        <title>Idea Form</title>
+        <visible_condition/>
+    </sys_sg_icon_section>
+</record_update>

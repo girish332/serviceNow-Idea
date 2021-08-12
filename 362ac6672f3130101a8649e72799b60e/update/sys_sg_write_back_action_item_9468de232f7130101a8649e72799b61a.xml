@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description>Submit idea action</description>
+        <execution_script><![CDATA[(function WriteBackAction(input) {
+    //Type appropriate comment here, and begin script below
+ 
+})(input);]]></execution_script>
+        <name>Submit idea action</name>
+        <parameter_screen/>
+        <query_condition/>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-12 07:32:38</sys_created_on>
+        <sys_id>9468de232f7130101a8649e72799b61a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Submit idea action</sys_name>
+        <sys_package display_value="Idea portal" source="x_675327_idea_port">362ac6672f3130101a8649e72799b60e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Idea portal">362ac6672f3130101a8649e72799b60e</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_9468de232f7130101a8649e72799b61a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-12 07:32:38</sys_updated_on>
+        <table>x_675327_idea_port_demand</table>
+        <template>title=Idea1^impacted_buisness_unit=asset^EQ</template>
+        <type>new</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=9468de232f7130101a8649e72799b61a"/>
+</record_update>
