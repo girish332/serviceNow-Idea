@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
     <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
         <active>true</active>
-        <applet_launcher display_value="Idea portal">2cdb4a232f3130101a8649e72799b615</applet_launcher>
+        <applet_launcher display_value="Idea portal Temp">2cdb4a232f3130101a8649e72799b615</applet_launcher>
         <icon display_value="Home Idea portal">e4dbcea72f3130101a8649e72799b611</icon>
         <label>Idea portal</label>
         <roles>user,admin</roles>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
     <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
-        <applet_launcher display_value="Idea portal">2cdb4a232f3130101a8649e72799b615</applet_launcher>
+        <applet_launcher display_value="Idea portal Temp">2cdb4a232f3130101a8649e72799b615</applet_launcher>
         <order/>
         <section display_value="Idea Form">f8dbcea72f3130101a8649e72799b656</section>
         <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
